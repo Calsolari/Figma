@@ -1,0 +1,50 @@
+body{
+    background-color: #EB3402;
+}
+.nomeprinprin{
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    margin-left: 4%;
+}
+header{
+    font-family: 'Lobster', cursive;
+}
+.nomes{
+    margin-left: 50px;
+}
+.menu{
+    position: absolute;
+    top: 8%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    height: 40px;
+
+}
+.numero{
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 50px;
+}
+.logo{
+    width: 40px;
+    margin-left: 117px;
+    margin-top: 13px;
+}
+.linha{
+    border-color: rgb(0, 0, 0);
+    margin-top: 10px;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+.just{
+    margin-top: -43px;
+    margin-left: 10px;
+}
+.burguer{
+    position: absolute;
+    top: 0;
+    margin-left: 110px;
+}
